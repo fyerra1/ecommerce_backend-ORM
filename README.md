@@ -17,9 +17,7 @@
   ## Installation
 
   - On your terminal, create the schema from the MySQL shell by running command 'mysql -u root -p'. Then, enter you credentials and run command 'SOURCE db/schema.sql;'. Be sure to enter 'exit' after schema is created. 
-  </br>
   - Next, seed the database by running command 'npm run seed'.
-  </br>
   - Finally, start the application’s server with command 'npm start'.
 
   ## Usage
